@@ -1,0 +1,18 @@
+.image img{
+    width: 800px;
+    border-radius: 30px;
+    margin-left: 350px;
+}
+.image h1{
+    text-align: center;
+}
+.items{
+    text-align: center;
+}
+.items .name{
+font-size: 70px;
+}
+.content{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

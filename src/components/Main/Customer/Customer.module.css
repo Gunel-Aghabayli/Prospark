@@ -1,0 +1,36 @@
+.spark p {
+  font-size: 90px;
+  font-weight: 500;
+  margin: 0;
+  margin-left: 150px;
+}
+.spark img {
+  margin-left: 250px;
+}
+.spark span {
+  font-size: 90px;
+  color: #7158dc;
+  font-weight: 500;
+}
+.spark {
+  margin-top: 70px;
+}
+.total {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  row-gap: 40px;
+  justify-items: center;
+  margin-top: 70px;
+}
+.customer img {
+  width: 50px;
+}
+.customer p {
+  font-size: 30px;
+  width: 400px;
+}
+.customer li{
+    color: gray;
+    list-style-type: circle;
+}

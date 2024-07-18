@@ -1,0 +1,42 @@
+.part1 p {
+  font-size: 100px;
+  margin: 0;
+  margin-left: 80px;
+}
+.photo span {
+  font-size: 100px;
+  margin: 0;
+  color: #7158dc;
+}
+.part1 {
+  text-align: center;
+}
+.part2 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-items: center;
+  align-items: center;
+  margin: 20px 60px;
+}
+.section img {
+  width: 200px;
+}
+.input input{
+    padding: 15px 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.input button{
+    padding: 15px 30px;
+    border-radius: 10px;
+    background-color: #7158dc;
+    color: white;
+    border: none;
+}
+.finish{
+    padding: 20px;
+}
+.footer{
+    margin-top: 200px;
+    
+}

@@ -1,0 +1,38 @@
+.trainer{
+    background-color: rgb(244, 237, 237);
+    width: 90%;
+    padding: 40px;
+    margin-left: 40px;
+    margin-top: 70px;
+    border-radius: 30px;
+}
+.cube{
+  width: 300px;
+  padding: 30px;
+  background-color: white;
+  border-radius: 30px;
+}
+.names{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    row-gap: 50px;
+}
+.ptag{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 90px;
+    font-weight: 600;
+}
+.ptag p{
+    margin: 0;
+}
+.color{
+    color: #7158dc;
+}
+.ptag img{
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 30px;
+    margin-top: 80px;
+}

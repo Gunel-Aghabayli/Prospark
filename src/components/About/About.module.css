@@ -1,0 +1,47 @@
+.ptag{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 90px;
+    font-weight: 600;
+}
+.ptag p{
+    margin: 0;
+}
+.photo img{
+    width: 80%;
+    margin-top: 80px;
+    margin-left: 150px;
+    border-radius: 30px;
+}
+.ptag .color{
+    color: #7158dc;
+}
+.parts{
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ margin-top: 100px;
+ gap: 70px;
+}
+.parts div{
+    width: 300px;
+}
+.parts div img{
+    width: 70px;
+}
+.parts div h3{
+    font-size: 30px;
+}
+.value{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.value p{
+    font-size: 100px;
+    margin: 0;
+    color: #7158dc;
+}
+.value span{
+    font-size: 100px;
+    margin: 0;
+}

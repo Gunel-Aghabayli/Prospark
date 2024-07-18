@@ -1,0 +1,28 @@
+.ptag{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 90px;
+    font-weight: 600;
+}
+.ptag p{
+    margin: 0;
+}
+.color{
+    color: #7158dc;
+}
+.ptag img{
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 30px;
+    margin-top: 80px;
+}
+.photos .photo img{
+   width: 600px;
+   border-radius: 30px;
+}
+.photos{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    margin-top: 90px;
+}

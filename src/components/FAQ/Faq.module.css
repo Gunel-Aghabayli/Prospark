@@ -1,0 +1,14 @@
+.faq{
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: rgb(250, 245, 246);
+    padding: 20px 70px;
+    margin-top: 90px;
+    border-radius: 30px;
+}
+.faq h3:hover{
+    cursor: pointer;
+}

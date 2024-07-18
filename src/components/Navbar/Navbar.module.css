@@ -1,0 +1,41 @@
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+.image img {
+  width: 180px;
+  height: 24px;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  gap: 35px;
+}
+ul li {
+  list-style-type: none;
+  font-size: 16px;
+}
+li a{
+    text-decoration: none;
+    color: gray;
+}
+.buton{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.buton i{
+    font-size: 20px;
+}
+.buton button{
+    padding: 16px 32px;
+    background-color: #18122F;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 9px;
+    border: none;
+}
